@@ -7,7 +7,7 @@ I specialize in building responsive web applications using modern front-end and 
 - Front-end: HTML, CSS, JavaScript, Angular
 - Back-end: Java, Spring, Spring Boot
 - Databases: Relational DBs
-- Cloud: Azure, Azure DevOps, Kubernetes, Docker
+- Cloud: Azure, DevOps, Kubernetes, Docker
 - Version control: Git
 
 
